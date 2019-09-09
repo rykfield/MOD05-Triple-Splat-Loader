@@ -4,10 +4,11 @@
 <img width="800" height="450" src="https://github.com/rykfield/MOD05-Triple-Splat-Loader/raw/master/MOD05-Triple-Splat-Loader.jpg">
 <BR>
 
-Blurb
+The Triple Splat Loader is a modified version of the loading ramp designed by Akiyuki for his GBC module: Cars with adaptive cruise control.  This modified version is standalone, using a Power Functions motor.  
 
 <P>Instructions: https://github.com/rykfield/MOD05-Triple-Splat-Loader/raw/master/MOD05-Triple-Splat-Loader.pdf
 <P>Parts List: https://raw.githubusercontent.com/rykfield/MOD05-Triple-Splat-Loader/master/MOD05-Triple-Splat-Loader.xml
+<P>Akiyuki Original: https://akiyuki.jp/en/works/1667
 
 <P><a href="https://github.com/rykfield/REF00-Module-Overview"><B>All available modules and instructions</b></a>
 
