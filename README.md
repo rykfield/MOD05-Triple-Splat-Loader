@@ -13,10 +13,10 @@ The Triple Splat Loader is a modified version of the loading ramp designed by Ak
 
 <P>
 <img width="328" height="369" src="https://github.com/rykfield/MOD05-Triple-Splat-Loader/raw/master/Extender-Standalone-Image.jpg">
-<img width="664" height="369" src="https://github.com/rykfield/MOD05-Triple-Splat-Loader/raw/master/Extender-Attached-Image.jpg">
-
 <BR>
 This optional extender can be attached to convert from a Triple Splat to a Quad Splat Loader.
+<img width="664" height="369" src="https://github.com/rykfield/MOD05-Triple-Splat-Loader/raw/master/Extender-Attached-Image.jpg">
+
 <P>Instructions: https://github.com/rykfield/MOD05-Triple-Splat-Loader/raw/master/MOD05-Triple-Splat-Loader%20(Extender).pdf
 
 <P>Akiyuki Original: https://akiyuki.jp/en/works/1667
