@@ -8,7 +8,11 @@ The Triple Splat Loader is a modified version of the loading ramp designed by Ak
 
 <P>Video: https://youtu.be/Mue4V4knf3c
 <P>Instructions: https://github.com/rykfield/MOD05-Triple-Splat-Loader/raw/master/MOD05-Triple-Splat-Loader.pdf
+
 <P>Parts List: https://raw.githubusercontent.com/rykfield/MOD05-Triple-Splat-Loader/master/MOD05-Triple-Splat-Loader.xml
+
+<img width="656" height="738" src="
+
 <P>Akiyuki Original: https://akiyuki.jp/en/works/1667
 
 <P><a href="https://github.com/rykfield/REF00-Module-Overview"><B>All available modules and instructions</b></a>
